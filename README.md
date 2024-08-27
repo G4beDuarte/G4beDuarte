@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Duarte 🖐🏻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https//instagram.com/g4beduarte)
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//linkedin.com/in/gabriel-duarte-a2563b211/)
+[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-duarte-a2563b211)
 
 [![Gabriel GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=g4beduarte&show_icons=true&theme=radical)
 
